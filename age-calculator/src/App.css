@@ -1,0 +1,27 @@
+/* src/App.css */
+*{
+  color:white;
+  
+}
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.age-calculator {
+  display: inline-block;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.age-calculator input {
+  margin: 5px;
+}
+
+.age-calculator button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
