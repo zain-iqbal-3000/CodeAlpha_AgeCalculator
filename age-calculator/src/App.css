@@ -1,7 +1,7 @@
 /* src/App.css */
 *{
   color:white;
-  
+
 }
 .App {
   text-align: center;
@@ -24,4 +24,10 @@
   margin-top: 10px;
   padding: 5px 10px;
   cursor: pointer;
+}
+.age-calculator button:hover {
+  background-color: #ddd;
+}
+.age-calculator button:active {
+  background-color: #bbb;
 }
